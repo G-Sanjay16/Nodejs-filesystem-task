@@ -7,8 +7,10 @@ It contains, end points to create and read the created Time stamp.
 Time Stamps are created at TimeStamp folder.
 This particular API creates a webserver on port 4000 which has two end points 'create' and 'read'.
 
-create url: http://localhost:4000/create
-read url: http://localhost:4000/read
+create url: 
+http://localhost:4000/create
+read url: 
+http://localhost:4000/read
  
 Postman documentation:
  https://documenter.getpostman.com/view/37436982/2sA3rxqteM#1855d6ea-ed07-46e1-aea0-124d1ae9f0f8
